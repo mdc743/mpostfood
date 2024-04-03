@@ -1,0 +1,14 @@
+{
+  "data":[
+    {
+      "id": "1",
+      "name": "MPOST BRACH",
+      "package_name": "com.marketdigitalcode.mposfood",
+      "api_key": "AIza6XG8QdqSRW1U6YfKFyKP8-6XG8QdqSRW1U6YfKFyKP8",
+      "logo": "https://dapurciqu.com/uploads/file/logo_app_branch.png",
+      "storage": "local",
+      "max_upload_image": "2",
+      "max_upload_video": "5"
+    }
+  ]
+}
